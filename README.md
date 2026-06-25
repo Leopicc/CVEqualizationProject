@@ -3,7 +3,7 @@
 Berno Sara\
 Carretta Francesco\
 Piccoli Leonardo Arduino\
-\
+
 ## Content
 - src
     - main.cpp
