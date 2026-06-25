@@ -1,6 +1,10 @@
-# CV_project
-
-BestHistagramEqualization
+# BestHistagramEqualization
+## Authors
+Berno Sara\
+Carretta Francesco\
+Piccoli Leonardo Arduino\
+\
+## Content
 - src
     - main.cpp
     - equalizations.cpp
@@ -19,3 +23,4 @@ BestHistagramEqualization
 - CMakeLists.txt
 - data (Image dataset)
 - report.pdf (Project report)
+- results.pdf (Metrics values for every output)
