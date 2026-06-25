@@ -2,7 +2,7 @@
 ## Authors
 Berno Sara\
 Carretta Francesco\
-Piccoli Leonardo Arduino\
+Piccoli Leonardo Arduino
 
 ## Content
 - src
