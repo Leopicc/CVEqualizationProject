@@ -23,4 +23,3 @@ Piccoli Leonardo Arduino
 - CMakeLists.txt
 - data (Image dataset)
 - report.pdf (Project report)
-- results.pdf (Metrics values for every output)
